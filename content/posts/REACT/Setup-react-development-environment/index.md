@@ -6,7 +6,7 @@ tags: ["React", "Web Development"]
 date: 2021-08-19
 weight: 2
 author: "Sabbadin Stefy"
-draft: true
+draft: False
 ---
 
 React is one of the most popular frontend framework, and for a good reason. It allow you to build your frontend application using components. Which are elements that encapsulate functionalities, visual elements, and data, into single units, that you can reuse, like lego blocks. Allowing you to organize and nest your components into a large and articulate application.
