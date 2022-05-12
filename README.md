@@ -1,6 +1,8 @@
-# hugo-paperMod Example
+# Backup website
 
-This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+Backup the entire blog and regenerate blog on the fly.
+
+Inspired by [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
 ## Install
 
