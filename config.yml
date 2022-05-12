@@ -1,4 +1,4 @@
-baseURL: "https://sabbakix.github.io/"
+baseURL: "https://sabbakix.netlify.app/"
 title: SabbaKix
 paginate: 5
 theme: hugo-PaperMod
