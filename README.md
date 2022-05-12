@@ -1,6 +1,8 @@
 # Backup website
 
-Backup the entire website and regenerate blog on the fly.
+Blog location https://sabbakix.com/
+
+Backup the entire website and regenerate blog on the fly with netflify.
 
 Inspired by [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
