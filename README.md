@@ -1,6 +1,6 @@
 # Backup website
 
-Backup the entire blog and regenerate blog on the fly.
+Backup the entire website and regenerate blog on the fly.
 
 Inspired by [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
