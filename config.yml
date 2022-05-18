@@ -44,7 +44,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Sabbakix Blog - A confy place to publish my stuff"
+    description: "A confy place to publish my stuff - Stefy Sabbadin"
     author: Sabbakix
     # author: ["Me", "You"] # multiple authors
 
