@@ -45,7 +45,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "A confy place to publish my stuff - Stefy Sabbadin"
-    author: Sabbakix
+    author: Stefy Sabbadin
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -77,7 +77,7 @@ params:
     homeInfoParams:
         Title: "SabbaKix Projects"
         Content: >
-            A cozy place to publish my stuff :)
+            A cozy place to publish my stuff :) - Stefy Sabbadin
     socialIcons:
         - name: github
           url: "https://github.com/sabbakix"
