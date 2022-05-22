@@ -39,3 +39,57 @@ Check installed version:
     yarn -v
 
 
+# Create React App
+
+Create your eact project with following commands
+
+    npx create-react-app myapp
+    cd myapp
+    npm start
+
+
+the most important files in your project will now show up like this:
+
+    myapp
+    ├── node_modules
+    ├── public
+    │   └── index.html
+    ├── src
+    │   ├── App.css
+    │   ├── App.js
+    │   ├── index.css
+    │   └── index.js
+    └── packages.json
+
+# Install React Developer Tools
+React dev tools for Chrome: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+React dev tools for Firefox: https://addons.mozilla.org/en-GB/firefox/addon/react-devtools/
+
+
+#  Start developing your application
+
+You can start by editing **App.js** file. There are two way to code new components.
+
+## Component as a Class
+
+    import { Component } from 'react';
+    class App extends Component (){
+        constructor(){
+            super();
+            this.state = { name:'Ernest' }
+        }
+        render(){
+            return (
+                <div>
+                    <h1> Hello {this.state.name} </h1>
+                    <button onClick={()=>{ this.setState({ name:'Noah'})} }>
+                        Change Name
+                    </button>
+                </div>
+            )
+        }
+    }
+
+
+
