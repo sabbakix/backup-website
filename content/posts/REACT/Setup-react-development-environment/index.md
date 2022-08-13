@@ -15,7 +15,6 @@ React is one of the most popular frontend framework, and for a good reason. It a
 # Setup
 To start developing your react app, you will need to install some tools:
 
-
 VsCode or your text editor of choice. https://code.visualstudio.com/
 
 Node with npm, we sugest the LTS stable version. https://nodejs.org/en/
@@ -90,6 +89,4 @@ You can start by editing **App.js** file. There are two way to code new componen
             )
         }
     }
-
-
 

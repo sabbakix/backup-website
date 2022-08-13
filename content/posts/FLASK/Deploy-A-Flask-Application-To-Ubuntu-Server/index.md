@@ -85,7 +85,6 @@ Configura uwsgi
 
     uwsgi --socket 0.0.0.0:8090 --protocol=http -w wsgi:pp
 
-
 Exit Virtualenv
 
     deactivate
