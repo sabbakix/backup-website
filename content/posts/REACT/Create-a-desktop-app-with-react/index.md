@@ -15,7 +15,7 @@ We are going to create a Desktop App using web tecnologies. Here a list of tools
     - blueprint js
     - CSS Grid
     - electron js
-    - electron-forge
+    - vite
 
 # Setup
 
