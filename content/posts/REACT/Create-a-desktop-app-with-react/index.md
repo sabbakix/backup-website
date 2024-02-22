@@ -79,7 +79,7 @@ In the command prompt insall the dart-sass package
 
     npm add -D sass
 
-then in the *vite.config.ts* at the root of our project we will configure the sass preprocessor:
+then in the **vite.config.ts** at the root of our project we will configure the sass preprocessor:
 
     css: {
         preprocessorOptions: {
