@@ -1,8 +1,8 @@
 ---
-title: "Create a Desktop App with React"
+title: "Create a Web Interface with React and Blueprintjs"
 #summary: ""
-categories: ["React", "Desktop App"]
-tags: ["React", "Desktop App", "Electron", "Vite"]
+categories: ["React", "Web App", "Blueprintjs"]
+tags: ["React", "Web App", "Vite", "Blueprintjs"]
 date: 2022-08-19
 weight: 2
 author: "Sabbadin Stefy"
