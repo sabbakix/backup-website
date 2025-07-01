@@ -17,20 +17,20 @@ Let's say that for this example, our node name pve03.
 
 - Remove node
 
-Enter the shell of another node in the cluster
+    Enter the shell of another node in the cluster
 
-    pvecm delnode pve03
+        pvecm delnode pve03
 
 
 - Remove node
 
-Again from other node: 
+    Again from other node: 
 
-    rm -r /etc/pve/nodes/pve03
+        rm -r /etc/pve/nodes/pve03
 
 - Remove node entry(ies) from authorized keys file
 
-    nano /etc/pve/priv/authorized_keys
+        nano /etc/pve/priv/authorized_keys
 
     remove the line associated with our node, ending with pve03
 
